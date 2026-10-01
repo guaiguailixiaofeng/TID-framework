@@ -1,0 +1,2 @@
+n_stage_ordered_samples,window_size,window_step,permutations,within_stage_reorderings,variance_permutation_p,ordered_ac1_permutation_p,within_stage_reorder_var_corr_median,within_stage_reorder_ac1_corr_median,stage_ii_n,stage_iii_n,stage_iv_n
+403,60,4,200,60,0.9651741293532339,0.23880597014925373,0.0571823038444311,-0.07042591399310486,129,140,134

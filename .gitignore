@@ -1,0 +1,11 @@
+
+.venv/
+__pycache__/
+*.pyc
+raw_data/
+outputs/
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
